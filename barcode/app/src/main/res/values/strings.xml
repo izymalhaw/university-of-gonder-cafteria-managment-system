@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ticker</string>
+    <string name="has_eaten">ተመግቧል</string>
+    <string name="not_eaten">አልተመገበም</string>
+</resources>
